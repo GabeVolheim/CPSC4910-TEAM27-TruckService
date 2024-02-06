@@ -1,5 +1,0 @@
-<<<<<<< HEAD
-testing with a new edit
-=======
-test edit
->>>>>>> 0bc0ab38430f5a367977ce5ddd470b245d2d78f1
